@@ -1,31 +1,180 @@
-# 💫 About Me:
-## 👨‍💻 Tentang Saya<br><br>Halo! Saya **Dewa Rama Danieal**, mahasiswa Informatika yang memiliki minat mendalam dalam rekayasa perangkat lunak, pengembangan aplikasi modern, dan pemanfaatan teknologi untuk menyelesaikan berbagai permasalahan nyata.<br><br>Saya berfokus pada pengembangan solusi digital yang mengutamakan **kualitas kode, efisiensi sistem, arsitektur yang terstruktur, optimalisasi basis data, serta pengalaman pengguna yang intuitif**. Bidang yang saya tekuni meliputi pengembangan web, aplikasi mobile, manajemen basis data, dan kecerdasan buatan.<br><br>Dalam setiap proyek, saya menerapkan pola pikir analitis dan pendekatan pemecahan masalah untuk menghasilkan aplikasi yang fungsional, terstruktur, mudah dipelihara, dan dapat dikembangkan sesuai kebutuhan.<br><br>### ⚡ Fokus Keahlian<br><br>- **Rekayasa Perangkat Lunak:** Menerapkan prinsip pemrograman terstruktur, modularitas, dan pemeliharaan kode.<br>- **Pengembangan Web:** Membangun website responsif dan aplikasi web dinamis dengan teknologi modern.<br>- **Pengembangan Mobile:** Mengembangkan aplikasi lintas platform menggunakan Flutter.<br>- **Manajemen Basis Data:** Merancang struktur basis data relasional, mengelola data, dan mempelajari optimasi query.<br>- **Kecerdasan Buatan:** Mengeksplorasi algoritma *machine learning* dan penerapan analisis data.<br>- **Version Control:** Mengelola kode sumber dan alur kerja pengembangan menggunakan Git dan GitHub.<br><br>### 🚀 Visi Pengembangan<br><br>Saya percaya bahwa perangkat lunak yang berkualitas dibangun melalui perencanaan yang matang, implementasi yang efisien, dan peningkatan berkelanjutan. Tujuan saya adalah mengubah ide menjadi solusi digital yang bermanfaat, mengembangkan kemampuan teknis secara konsisten, serta menghasilkan proyek yang mengutamakan kualitas dan keandalan.<br><br>**Berpikir secara sistematis. Membangun dengan presisi. Berkembang tanpa henti.**
+<!-- ═══════════ HEADER ═══════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a1b26,50:7aa2f7,100:bb9af7&text=Dewa%20Rama%20Danieal&fontColor=c0caf5&fontSize=52&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20Engineer%20%7C%20Flutter%20%26%20Web%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kurode) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kuro_de) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d___dewa12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewarama12007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kurode12) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k____erd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kuro_de) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewarama12007@gmail.com) 
+<a href="https://github.com/dewarama12007-stack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami;Informatics+Student+%7C+Software+Engineer;Think+Systematically.;Build+with+Precision.;Grow+Relentlessly." alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dewarama12007-stack&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dewarama12007-stack&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dewarama12007-stack&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dewarama12007-stack&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+**ようこそ &nbsp;·&nbsp; 開発者 &nbsp;·&nbsp; 東京ナイト**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=dewarama12007-stack&label=VISITORS&color=7aa2f7&style=for-the-badge&labelColor=1a1b26" alt="visitors" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7dcfff,50:bb9af7,100:f7768e" width="100%" alt="divider" />
+
+<!-- ═══════════ ABOUT ═══════════ -->
+## 👤 Player Profile &nbsp;<sub>プレイヤー情報</sub>
+
+```text
+╭─[ PLAYER PROFILE ]
+│ NAME    : Dewa Rama Danieal
+│ CLASS   : Software Engineer
+│ GUILD   : Informatics Student
+│ FOCUS   : Web · Mobile · Database · AI
+│ WEAPON  : Git & GitHub
+│ STATUS  : Online 🟢
+╰────────────────────────────
+```
+
+Halo! Saya **Dewa Rama Danieal**, mahasiswa Informatika yang memiliki minat mendalam dalam rekayasa perangkat lunak, pengembangan aplikasi modern, dan pemanfaatan teknologi untuk menyelesaikan berbagai permasalahan nyata.
+
+Saya berfokus pada pengembangan solusi digital yang mengutamakan **kualitas kode, efisiensi sistem, arsitektur yang terstruktur, optimalisasi basis data, serta pengalaman pengguna yang intuitif**. Dalam setiap proyek, saya menerapkan pola pikir analitis dan pendekatan pemecahan masalah untuk menghasilkan aplikasi yang fungsional, mudah dipelihara, dan dapat dikembangkan sesuai kebutuhan.
+
+> 💭 *Perangkat lunak yang berkualitas dibangun melalui perencanaan yang matang, implementasi yang efisien, dan peningkatan berkelanjutan.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:f7768e,50:bb9af7,100:7dcfff" width="100%" alt="divider" />
+
+<!-- ═══════════ SKILL TREE ═══════════ -->
+## ⚡ Skill Tree &nbsp;<sub>スキルツリー</sub>
+
+```text
+Software Engineering     ████████░░  LV.8
+Web Development          █████████░  LV.9
+Mobile (Flutter)         ███████░░░  LV.7
+Database Management      ████████░░  LV.8
+Artificial Intelligence  ██████░░░░  LV.6
+Git & GitHub             ████████░░  LV.8
+```
+
+| Bidang | Yang saya lakukan |
+| :-- | :-- |
+| 🏗️ **Rekayasa Perangkat Lunak** | Pemrograman terstruktur, modularitas, dan pemeliharaan kode |
+| 🌐 **Pengembangan Web** | Website responsif dan aplikasi web dinamis dengan teknologi modern |
+| 📱 **Pengembangan Mobile** | Aplikasi lintas platform menggunakan Flutter |
+| 🗄️ **Manajemen Basis Data** | Merancang basis data relasional, mengelola data, dan optimasi query |
+| 🤖 **Kecerdasan Buatan** | Eksplorasi algoritma *machine learning* dan analisis data |
+| 🔀 **Version Control** | Alur kerja pengembangan dengan Git dan GitHub |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7dcfff,50:7aa2f7,100:bb9af7" width="100%" alt="divider" />
+
+<!-- ═══════════ INVENTORY / TECH STACK ═══════════ -->
+## 🎒 Inventory &nbsp;<sub>インベントリ · Tech Stack</sub>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,cs,cpp,dart,py,powershell&theme=dark" alt="languages" />
+
+**Frameworks & Runtime**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,laravel,adonis,flutter,dotnet&theme=dark" alt="frameworks" />
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,sqlite,mssql,oracle&theme=dark" alt="database" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,netlify,gcp,git,github,githubactions,gitlab&theme=dark" alt="cloud" />
+
+**Design, Game & 3D**<br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,pr,unity,unreal&theme=dark" alt="design" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:bb9af7,50:f7768e,100:ff9e64" width="100%" alt="divider" />
+
+<!-- ═══════════ QUEST LOG ═══════════ -->
+## 📜 Quest Log &nbsp;<sub>クエストログ</sub>
+
+| Quest | Deskripsi | Status |
+| :-- | :-- | :--: |
+| 🚑 **Ampera Siaga** | Website pencari ambulans berbasis peta dengan permintaan layanan via WhatsApp | 🚧 In Progress |
+| 🎯 **Quest berikutnya** | Tambahkan proyek lain di sini | ⏳ Coming Soon |
+
+> 🔗 Lihat semua repository di [github.com/dewarama12007-stack](https://github.com/dewarama12007-stack?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7aa2f7,50:7dcfff,100:9ece6a" width="100%" alt="divider" />
+
+<!-- ═══════════ STATS ═══════════ -->
+## 📊 Scoreboard &nbsp;<sub>スコアボード</sub>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=dewarama12007-stack&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="stats" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dewarama12007-stack&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="top languages" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=dewarama12007-stack&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+## 🏆 Achievements &nbsp;<sub>実績</sub>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dewarama12007-stack&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dewarama12007-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=dewarama12007-stack&icon=10&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Dewa Rama) 
+<img src="https://github-contributor-stats.vercel.app/api?username=dewarama12007-stack&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed" />
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff9e64,50:f7768e,100:bb9af7" width="100%" alt="divider" />
+
+<!-- ═══════════ SOCIALS ═══════════ -->
+## 🌐 Connect &nbsp;<sub>接続</sub>
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Kurode)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Kuro_de)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d___dewa12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dewarama12007)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/Kurode12)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@k____erd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kuro_de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dewarama12007@gmail.com)
+
+</div>
+
+## 🪙 Insert Coin &nbsp;<sub>コインを入れる</sub>
+
+<div align="center">
+
+Kalau proyek saya bermanfaat, kamu bisa mendukung saya di sini:
+
+[![PayPal](https://img.shields.io/badge/INSERT%20COIN-PayPal-ff9e64?style=for-the-badge&logo=paypal&logoColor=1a1b26&labelColor=1a1b26)](https://paypal.me/Dewa%20Rama)
+
+</div>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<div align="center">
+
+<a href="https://github.com/dewarama12007-stack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=BB9AF7&center=true&vCenter=true&width=520&height=40&lines=PRESS+START+TO+CONTINUE...;GAME+ON+%E2%96%B6" alt="press start" />
+</a>
+
+**ありがとう &nbsp;·&nbsp; Thanks for visiting!**
+
+**Berpikir secara sistematis. Membangun dengan presisi. Berkembang tanpa henti.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:bb9af7,50:7aa2f7,100:1a1b26&text=Thanks%20for%20visiting&fontColor=c0caf5&fontSize=34&fontAlignY=35&desc=Think%20Systematically%20%C2%B7%20Build%20with%20Precision%20%C2%B7%20Grow%20Relentlessly&descSize=14&descAlignY=55" width="100%" alt="footer" />
+
+</div>
