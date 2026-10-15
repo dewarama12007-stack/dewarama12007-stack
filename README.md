@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%E6%9D%B1%E4%BA%AC%E3%83%8A%E3%82%A4%E3%83%88+%2F%2F+Tokyo+Night;Think+Systematically.+Build+with+Precision.;Fullstack+Web+%7C+Flutter+%7C+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Think+Systematically.+Build+with+Precision.;Fullstack+Web+%7C+Flutter+%7C+AI%2FML;Software+Engineer+from+Indonesia" alt="Typing SVG" />
 </a>
 
 <br>
@@ -164,7 +164,7 @@ coffee_level: 98.5%
 
 <sub>
 
-**Dewa Rama Danieal** · @dewarama12007-stack · Tokyo Night Theme
+**Dewa Rama Danieal** · @dewarama12007-stack
 
 </sub>
 
