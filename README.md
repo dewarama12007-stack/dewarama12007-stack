@@ -86,12 +86,12 @@ coffee_level: 98.5%
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=dewarama12007-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&ring_color=bb9af7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dewarama12007-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&ring_color=bb9af7" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=dewarama12007-stack&theme=tokyonight&hide_border=true&background=1a1b26&stroke=2f354a&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff&sideLabels=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" />
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dewarama12007-stack&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewarama12007-stack&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" />
 
 </div>
 
