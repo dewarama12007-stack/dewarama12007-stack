@@ -1,189 +1,31 @@
-<!-- ============================================================
-  CARA PAKAI:
-  1. Buat repository BARU di GitHub dengan nama yang SAMA dengan username kamu
-     (contoh: username "dewa123" -> repo "dewa123"), set Public.
-  2. Centang "Add a README file", lalu ganti isinya dengan file ini.
-  3. Ganti semua kata USERNAME dengan username GitHub kamu.
-  4. Edit bagian yang ada tanda [EDIT].
-============================================================ -->
+# 💫 About Me:
+## 👨‍💻 Tentang Saya<br><br>Halo! Saya **Dewa Rama Danieal**, mahasiswa Informatika yang memiliki minat mendalam dalam rekayasa perangkat lunak, pengembangan aplikasi modern, dan pemanfaatan teknologi untuk menyelesaikan berbagai permasalahan nyata.<br><br>Saya berfokus pada pengembangan solusi digital yang mengutamakan **kualitas kode, efisiensi sistem, arsitektur yang terstruktur, optimalisasi basis data, serta pengalaman pengguna yang intuitif**. Bidang yang saya tekuni meliputi pengembangan web, aplikasi mobile, manajemen basis data, dan kecerdasan buatan.<br><br>Dalam setiap proyek, saya menerapkan pola pikir analitis dan pendekatan pemecahan masalah untuk menghasilkan aplikasi yang fungsional, terstruktur, mudah dipelihara, dan dapat dikembangkan sesuai kebutuhan.<br><br>### ⚡ Fokus Keahlian<br><br>- **Rekayasa Perangkat Lunak:** Menerapkan prinsip pemrograman terstruktur, modularitas, dan pemeliharaan kode.<br>- **Pengembangan Web:** Membangun website responsif dan aplikasi web dinamis dengan teknologi modern.<br>- **Pengembangan Mobile:** Mengembangkan aplikasi lintas platform menggunakan Flutter.<br>- **Manajemen Basis Data:** Merancang struktur basis data relasional, mengelola data, dan mempelajari optimasi query.<br>- **Kecerdasan Buatan:** Mengeksplorasi algoritma *machine learning* dan penerapan analisis data.<br>- **Version Control:** Mengelola kode sumber dan alur kerja pengembangan menggunakan Git dan GitHub.<br><br>### 🚀 Visi Pengembangan<br><br>Saya percaya bahwa perangkat lunak yang berkualitas dibangun melalui perencanaan yang matang, implementasi yang efisien, dan peningkatan berkelanjutan. Tujuan saya adalah mengubah ide menjadi solusi digital yang bermanfaat, mengembangkan kemampuan teknis secara konsisten, serta menghasilkan proyek yang mengutamakan kualitas dan keandalan.<br><br>**Berpikir secara sistematis. Membangun dengan presisi. Berkembang tanpa henti.**
 
-<!-- ===================== HEADER ===================== -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=240&section=header&text=Hai%2C%20Saya%20Dewa%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Web%20%26%20Data%20Enthusiast&descSize=20&descAlignY=60" width="100%" />
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kurode) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kuro_de) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d___dewa12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dewarama12007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kurode12) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@k____erd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kuro_de) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewarama12007@gmail.com) 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Membangun+aplikasi+web+dengan+Laravel;Eksplorasi+Data+%26+Machine+Learning;Selalu+belajar%2C+selalu+berkembang+%F0%9F%9A%80;Open+to+collaboration+%26+new+ideas" alt="Typing SVG" />
-</a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dewarama12007-stack&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dewarama12007-stack&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dewarama12007-stack&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dewarama12007-stack&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="Followers" />
-<img src="https://img.shields.io/github/stars/USERNAME?label=Total%20Stars&style=for-the-badge&logo=github&color=0f2027" alt="Stars" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dewarama12007-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=dewarama12007-stack&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- ===================== TENTANG SAYA ===================== -->
-## 👨‍💻 Tentang Saya
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Dewa Rama) 
 
-```js
-const dewa = {
-  nama: "Dewa",                                    // [EDIT]
-  peran: "Mahasiswa | Web Developer | Data Enthusiast",
-  lokasi: "Indonesia 🇮🇩",                         // [EDIT]
-  sedangDipelajari: ["Laravel", "Machine Learning", "Data Analysis"],
-  sedangDikerjakan: "Proyek kuliah & portofolio pribadi",
-  funFact: "Kopi dulu, baru ngoding ☕",           // [EDIT]
-  motto: "Make it work, make it right, make it fast."
-};
-```
-
-- 🔭 Sedang mengerjakan **proyek web & machine learning**
-- 🌱 Sedang belajar **Laravel, Python, dan analisis data**
-- 🤝 Terbuka untuk **kolaborasi** dan proyek open source
-- 💬 Tanya saya tentang **web development, basis data, dan ML dasar**
-- ⚡ Fun fact: **[EDIT: isi fun fact kamu]**
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Bahasa & Framework**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,tailwind,bootstrap&theme=dark" alt="languages" />
-
-**Database, Tools & Data**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,jupyter,figma,linux&theme=dark" alt="tools" />
-
-</div>
-
-<br/>
-
-<!-- ===================== STATISTIK ===================== -->
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Grafik%20Aktivitas%20Kontribusi" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ===================== PROYEK ===================== -->
-## 🚀 Proyek Unggulan
-
-> Ganti `REPO-1`, `REPO-2`, dst. dengan nama repository kamu. Kartu akan otomatis menampilkan deskripsi, bintang, dan bahasa.
-
-<div align="center">
-
-<a href="https://github.com/USERNAME/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/USERNAME/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-2&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/USERNAME/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-3&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/USERNAME/REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-4&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===================== TROPHY ===================== -->
-## 🏆 Trofi GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE (OPSIONAL) ===================== -->
-## 🐍 Kontribusi Saya
-
-<div align="center">
-  <!-- Butuh GitHub Action, lihat panduan di bawah file ini -->
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
-<!-- ===================== SOSIAL MEDIA ===================== -->
-## 🌐 Mari Terhubung
-
-<div align="center">
-
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://wa.me/628xxxxxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-<!-- ===================== QUOTE & FOOTER ===================== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
-
-<br/><br/>
-
-⭐ **Kalau suka dengan profil ini, jangan lupa kasih bintang di repo saya ya!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=120&section=footer" width="100%" />
-
-</div>
-
-<!-- ============================================================
-  PANDUAN SNAKE ANIMATION (opsional)
-  Buat file: .github/workflows/snake.yml di repo profil kamu, isi:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  permissions:
-    contents: write
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  Lalu jalankan manual lewat tab Actions > Generate Snake > Run workflow.
-============================================================ -->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
